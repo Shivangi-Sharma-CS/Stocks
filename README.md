@@ -1,3 +1,24 @@
+# Summary 
+
+This was my assignment from the University of Prince Edward Island by [Dr. Andrew Godbout](https://github.com/andrewgodbout). I thank him for his mentorship. I also thank my help center tutor [Mr. Will Taylor](https://github.com/wtaylor17) for his guidance. 
+
+This program has a server that allows you to login as a user or creates a new user, and allows you to `track` or `forget` a stock price or ticker, and see your `portfolio` with your ticker and its prices. 
+
+To interact with the program, `clone` the project in your IDE and start the `Stock Server` first, and then a `Stock client`. Yan have as many clients because this is a multithreaded server. 
+
+Please see below visuals for a quick view of how the program works. 
+
+You start the servers as follows: 
+![server start](https://media.giphy.com/media/FKbxrwlm5K7HQf36M6/giphy.gif)
+
+Then type USER to start login process, if you are not a user you are automatically created as a user
+![user login](https://media.giphy.com/media/MzXJDjmU7iaPr6laGJ/giphy.gif)
+
+Now use the `TRACK` and `PORTFOLIO` to track a stock price for your account as follows:
+![ticker](https://media.giphy.com/media/3t9wCszjQiLCYfi22e/giphy.gif)
+
+This program has been updated after 3 years to reflect the changes in the API provided by financialmodelingprep.com. 
+
 # CS2910-A5-Stocks
 Stock Portfolio Tracker
 
@@ -7,7 +28,7 @@ For this assignment you will create a Server that allows clients to connect and 
 
 ## Server
 
-Your server should be multithreaded and handle the below commands, where all commands are followed by an exclaimation point as shown below:
+Your server should be multithreaded and handle the below commands, where all commands are followed by an exclamation point as shown below:
 
 1. USER username!  
 *allow a user to log in, where username is their login name*
