@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Nov 03 22:02:36 ADT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0184-4029-3f42-00000f851248 
+on database directory /Users/shivangisharma/Documents/A. Programming/Java/AndrewGodbout-Projects-UPEI/Stocks/BigJavaDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@7ad041f3 
+Loaded from file:/Users/shivangisharma/Documents/A.%20Programming/Java/AndrewGodbout-Projects-UPEI/Stocks/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=18.0.1.1+2-6
+user.dir=/Users/shivangisharma/Documents/A. Programming/Java/AndrewGodbout-Projects-UPEI/Stocks
+os.name=Mac OS X
+os.arch=x86_64
+os.version=12.5
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
