@@ -11,7 +11,8 @@ Please see below visuals for a quick view of how the program works.
 You start the servers as follows: 
 ![server start](https://media.giphy.com/media/FKbxrwlm5K7HQf36M6/giphy.gif)
 
-Then type USER to start login process, if you are not a user you are automatically created as a user
+Then type USER to start login process, if you are not a user you are automatically created as a user:
+
 ![user login](https://media.giphy.com/media/MzXJDjmU7iaPr6laGJ/giphy.gif)
 
 Now use the `TRACK` and `PORTFOLIO` to track a stock price for your account as follows:
